@@ -2,8 +2,10 @@
 
 import json
 import logging
+from urllib.request import urlopen
 
-JSON_FILE = "https://github.com/darkbyteprojects/iptv_png/blob/main/provider_1/sports_channels.json"
+JSON_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_1/sports_channels.json"
+
 M3U_FILE = "stv10.m3u"
 LOG_FILE = "stv10.log"
 
@@ -13,24 +15,58 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-try:
-    with open(JSON_FILE, "r", encoding="utf-8") as f:
-        channels = json.load(f)
+def get_field(item, names, default=""):
+    for name in names:
+        if name in item and item[name\]:
+            return item[name]
+    return default
+
+def main():
+    logging.info("Downloading JSON from GitHub")
+
+    with urlopen(JSON_URL) as response:
+        data = json.load(response)
+
+    logging.info(f"Loaded {len(data)} channels")
+
+    count = 0
 
     with open(M3U_FILE, "w", encoding="utf-8") as m3u:
         m3u.write("#EXTM3U\n")
 
-        count = 0
+        for item in data:
 
-        for ch in channels:
+            name = get_field(
+                item,
+                ["name", "title", "channel_name"],
+                "Unknown"
+            )
 
-            name = ch.get("name", "Unknown")
-            logo = ch.get("logo", "")
-            group = ch.get("group", "Sports")
-            url = ch.get("url") or ch.get("stream_url")
+            logo = get_field(
+                item,
+                ["logo", "logo_url", "image"],
+                ""
+            )
 
-            if not url:
-                logging.warning(f"Skipping {name}: no stream URL")
+            group = get_field(
+                item,
+                ["group", "category", "group-title"],
+                "Sports"
+            )
+
+            stream = get_field(
+                item,
+                [
+                    "url",
+                    "stream_url",
+                    "stream",
+                    "play_url",
+                    "source"
+                ]
+            )
+
+            if not stream:
+                logging.warning(f"Skip: {name} (no stream URL)")
                 continue
 
             m3u.write(
@@ -39,15 +75,19 @@ try:
                 f'group-title="{group}",{name}\n'
             )
 
-            m3u.write(url + "\n")
+            m3u.write(stream + "\n")
 
             count += 1
 
     logging.info(f"Generated {M3U_FILE}")
-    logging.info(f"Total channels: {count}")
+    logging.info(f"Channels written: {count}")
 
-    print(f"Done: {count} channels written to {M3U_FILE}")
+    print(f"Done. {count} channels saved to {M3U_FILE}")
 
-except Exception as e:
-    logging.exception(str(e))
-    print("ERROR:", e)
+if __name__ == "__main__":
+    try:
+        main()
+    except Exception as e:
+        logging.exception(str(e))
+        print("ERROR:", e)
+        raise
