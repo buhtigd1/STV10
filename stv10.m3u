@@ -267,16 +267,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lbgomzfdel/o
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={
-    "keys": [
-        {
-            "kty": "oct",
-            "k": "MNW1eZZtgishXsUakdiicQ",
-            "kid": "YNwIquUvTAuAao5D8koSyA"
-        }
-    ],
-    "type": "temporary"
-}
+#KODIPROP:inputstream.adaptive.license_key=YNwIquUvTAuAao5D8koSyA:MNW1eZZtgishXsUakdiicQ
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 #EXTINF:-1 tvg-id="wwe" tvg-name="One Fight" tvg-logo="https://apkfolder.io/wp-content/uploads/2026/01/WWE.png" group-title="Sports",One Fight
 #KODIPROP:inputstream=inputstream.adaptive
