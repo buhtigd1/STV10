@@ -10,46 +10,36 @@ LOG_FILE = "stv10.log"
 
 
 def normalize_drm_key(drm_key):
-    """
-    Convert:
-    {
-      "keys":[{"kid":"xxx","k":"yyy"}]
-    }
-
-    to:
-
-    xxx:yyy
-    """
-
     if not drm_key:
         return ""
 
     if isinstance(drm_key, str):
-
         drm_key = drm_key.strip()
 
+        # already in kid:key format
         if ":" in drm_key and not drm_key.startswith("{"):
             return drm_key
 
-        try:
-            obj = json.loads(drm_key)
+        # JSON string
+        if drm_key.startswith("{"):
+            try:
+                obj = json.loads(drm_key)
 
-            if "keys" in obj and obj["keys"\]:
-                item = obj["keys"][0]
+                if "keys" in obj and len(obj["keys"]) > 0:
+                    item = obj["keys"][0]
 
-                kid = item.get("kid", "")
-                key = item.get("k", "")
+                    kid = item.get("kid", "")
+                    key = item.get("k", "")
 
-                if kid and key:
-                    return f"{kid}:{key}"
+                    if kid and key:
+                        return f"{kid}:{key}"
 
-        except Exception:
-            pass
+            except Exception:
+                pass
 
     elif isinstance(drm_key, dict):
 
-        if "keys" in drm_key and drm_key["keys"\]:
-
+        if "keys" in drm_key and len(drm_key["keys"]) > 0:
             item = drm_key["keys"][0]
 
             kid = item.get("kid", "")
@@ -61,42 +51,34 @@ def normalize_drm_key(drm_key):
     return ""
 
 
-def write_kodi_props(fp, url, drm_scheme, drm_key):
+def write_kodiprop(fp, url, drm_scheme, drm_key):
 
     drm_key = normalize_drm_key(drm_key)
 
     if not drm_key:
         return
 
-    drm_scheme = (drm_scheme or "").lower()
-
-    if drm_scheme != "clearkey":
+    if (drm_scheme or "").lower() != "clearkey":
         return
 
-    manifest = "hls"
+    manifest_type = "mpd"
 
-    if ".mpd" in url.lower():
-        manifest = "mpd"
+    if ".m3u8" in url.lower():
+        manifest_type = "hls"
 
+    fp.write("#KODIPROP:inputstream=inputstream.adaptive\n")
     fp.write(
-        "#KODIPROP:inputstream=inputstream.adaptive\n"
+        f"#KODIPROP:inputstream.adaptive.manifest_type={manifest_type}\n"
     )
-
-    fp.write(
-        f"#KODIPROP:inputstream.adaptive.manifest_type={manifest}\n"
-    )
-
     fp.write(
         "#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n"
     )
-
     fp.write(
         f"#KODIPROP:inputstream.adaptive.license_key={drm_key}\n"
     )
 
 
-def load_json():
-
+def load_channels():
     with urlopen(JSON_URL, timeout=60) as response:
         return json.loads(
             response.read().decode("utf-8")
@@ -105,10 +87,10 @@ def load_json():
 
 def main():
 
-    channels = load_json()
+    channels = load_channels()
 
-    total = 0
-    drm_count = 0
+    total_streams = 0
+    total_drm = 0
 
     with open(M3U_FILE, "w", encoding="utf-8") as m3u, \
          open(LOG_FILE, "w", encoding="utf-8") as log:
@@ -117,14 +99,23 @@ def main():
 
         for channel in channels:
 
-            channel_id = channel.get("name", "unknown")
+            channel_id = str(
+                channel.get("name", "unknown")
+            )
+
             logo = channel.get("logo", "")
 
             streams = channel.get("streams", [])
 
+            if not isinstance(streams, list):
+                continue
+
             for stream in streams:
 
-                name = stream.get(
+                if not isinstance(stream, dict):
+                    continue
+
+                stream_name = stream.get(
                     "name",
                     channel_id
                 )
@@ -133,6 +124,9 @@ def main():
                     "link",
                     ""
                 ).strip()
+
+                if not url:
+                    continue
 
                 drm_key = stream.get(
                     "drm_key",
@@ -144,17 +138,18 @@ def main():
                     ""
                 )
 
-                if not url:
-                    continue
+                drm_value = normalize_drm_key(
+                    drm_key
+                )
 
                 m3u.write(
                     f'#EXTINF:-1 tvg-id="{channel_id}" '
-                    f'tvg-name="{name}" '
+                    f'tvg-name="{stream_name}" '
                     f'tvg-logo="{logo}" '
-                    f'group-title="Sports",{name}\n'
+                    f'group-title="Sports",{stream_name}\n'
                 )
 
-                write_kodi_props(
+                write_kodiprop(
                     m3u,
                     url,
                     drm_scheme,
@@ -164,22 +159,22 @@ def main():
                 m3u.write(url + "\n")
 
                 log.write(
-                    f"CHANNEL={name}\n"
+                    f"CHANNEL={stream_name}\n"
                     f"URL={url}\n"
                     f"DRM_SCHEME={drm_scheme}\n"
-                    f"DRM_KEY={normalize_drm_key(drm_key)}\n"
-                    "----------------------------------\n"
+                    f"DRM_KEY={drm_value}\n"
+                    "----------------------------------------\n"
                 )
 
-                total += 1
+                total_streams += 1
 
-                if normalize_drm_key(drm_key):
-                    drm_count += 1
+                if drm_value:
+                    total_drm += 1
 
-    print(f"Streams  : {total}")
-    print(f"DRM      : {drm_count}")
-    print(f"M3U File : {M3U_FILE}")
-    print(f"LOG File : {LOG_FILE}")
+    print(f"Streams : {total_streams}")
+    print(f"DRM     : {total_drm}")
+    print(f"Saved   : {M3U_FILE}")
+    print(f"Log     : {LOG_FILE}")
 
 
 if __name__ == "__main__":
