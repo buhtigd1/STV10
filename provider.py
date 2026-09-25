@@ -16,11 +16,9 @@ def normalize_drm_key(drm_key):
     if isinstance(drm_key, str):
         drm_key = drm_key.strip()
 
-        # Already in kid:key format
         if ":" in drm_key and not drm_key.startswith("{"):
             return drm_key
 
-        # JSON string
         if drm_key.startswith("{"):
             try:
                 obj = json.loads(drm_key)
@@ -85,6 +83,17 @@ def load_channels():
         )
 
 
+def is_valid_stream_url(url):
+    url = (url or "").strip().lower()
+
+    return (
+        url.startswith("http://")
+        or url.startswith("https://")
+        or url.startswith("rtmp://")
+        or url.startswith("rtsp://")
+    )
+
+
 def main():
 
     channels = load_channels()
@@ -121,13 +130,13 @@ def main():
                     channel_id
                 )
 
-                url = stream.get(
-                    "link",
-                    ""
+                url = str(
+                    stream.get("link", "")
                 ).strip()
 
-                # Skip empty or invalid links such as "Ok"
-                if not url or url.lower() == "ok":
+                # Skip invalid links such as:
+                # Ok, ok, Okja, okOkja, test, abc, etc.
+                if not is_valid_stream_url(url):
                     skipped += 1
                     continue
 
