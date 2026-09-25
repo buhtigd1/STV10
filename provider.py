@@ -16,7 +16,7 @@ def normalize_drm_key(drm_key):
     if isinstance(drm_key, str):
         drm_key = drm_key.strip()
 
-        # already in kid:key format
+        # Already in kid:key format
         if ":" in drm_key and not drm_key.startswith("{"):
             return drm_key
 
@@ -116,11 +116,6 @@ def main():
                 if not isinstance(stream, dict):
                     continue
 
-                # Skip entries that contain: "url": "Ok"
-                if str(stream.get("url", "")).strip().lower() == "ok":
-                    skipped += 1
-                    continue
-
                 stream_name = stream.get(
                     "name",
                     channel_id
@@ -131,7 +126,9 @@ def main():
                     ""
                 ).strip()
 
-                if not url:
+                # Skip empty or invalid links such as "Ok"
+                if not url or url.lower() == "ok":
+                    skipped += 1
                     continue
 
                 drm_key = stream.get(
