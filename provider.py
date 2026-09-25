@@ -62,3 +62,12 @@ for stream in streams:
 
     if drm_value:
         total_drm += 1
+
+  print(f"Streams : {total_streams}")
+  print(f"DRM     : {total_drm}")
+  print(f"Saved   : {M3U_FILE}")
+  print(f"Log     : {LOG_FILE}")
+
+
+if __name__ == "__main__":
+    main()
