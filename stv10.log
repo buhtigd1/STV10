@@ -3,11 +3,6 @@ URL=https://playztv.pages.dev/sss/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=TNT SPORTS - AQ 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 DRM_SCHEME=clearkey
@@ -63,11 +58,6 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/ou
 DRM_SCHEME=clearkey
 DRM_KEY=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 ----------------------------------------
-CHANNEL=PLAYZ TV
-URL=ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=EUROSPORT - AQ 
 URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 DRM_SCHEME=clearkey
@@ -110,11 +100,6 @@ DRM_KEY=
 ----------------------------------------
 CHANNEL=SD STREAM 
 URL=okOkja
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PLAYZ TV HD
-URL=ok
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
@@ -193,21 +178,6 @@ URL=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=PLAYZ TV HD
-URL=ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=HD STREAM 
-URL=ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=SD stream 
-URL=ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=WWE LIVE FHD
 URL=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 DRM_SCHEME=
@@ -273,85 +243,10 @@ URL=https://asian-games-4512.playzabid.workers.dev/asian-games-ch07.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=fd5881a779d148e18fb48d120bfb0056:5f7e80016181020e087586c4f7942929
 ----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=BeIN SPORTS 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?
 DRM_SCHEME=clearkey
 DRM_KEY=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
 ----------------------------------------
 CHANNEL=BeIN SPORTS - AQ
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?
@@ -363,355 +258,10 @@ URL=https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 ----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=BeIN SPORTS 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
 ----------------------------------------
 CHANNEL=WILLOW - AQ
 URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd
@@ -778,38 +328,8 @@ URL=https://chatgpt.hereisman.net/playlist/56706/load-playlist-multi?|Referer=ht
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=S2
 URL=https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
@@ -818,28 +338,13 @@ URL=https://edgestream6.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=S2
 URL=https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=S2
 URL=https://edgestream5.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=Ok
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
