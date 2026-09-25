@@ -98,16 +98,6 @@ URL=https://chatgpt.hereisman.net/playlist/54800/load-playlist?|Referer=https://
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=SD STREAM 
-URL=okOkja
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=SD STREAM BK
-URL=okOkja
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=ONE PPV - AQ 
 URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 DRM_SCHEME=clearkey

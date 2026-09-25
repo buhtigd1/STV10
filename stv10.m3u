@@ -95,10 +95,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
 #EXTINF:-1 tvg-id="unknown" tvg-name="HD STREAM " tvg-logo="" group-title="Sports",HD STREAM 
 https://chatgpt.hereisman.net/playlist/54800/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-id="unknown" tvg-name="SD STREAM " tvg-logo="" group-title="Sports",SD STREAM 
-okOkja
-#EXTINF:-1 tvg-id="unknown" tvg-name="SD STREAM BK" tvg-logo="" group-title="Sports",SD STREAM BK
-okOkja
 #EXTINF:-1 tvg-id="unknown" tvg-name="ONE PPV - AQ " tvg-logo="" group-title="Sports",ONE PPV - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
