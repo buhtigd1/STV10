@@ -3,7 +3,7 @@
 import json
 from urllib.request import urlopen
 
-JSON_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_1/sports_channels.json"
+JSON_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_5/live_events.json"
 
 M3U_FILE = "stv10.m3u"
 LOG_FILE = "stv10.log"
