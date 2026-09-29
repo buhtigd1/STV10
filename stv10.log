@@ -8,16 +8,6 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/ou
 DRM_SCHEME=clearkey
 DRM_KEY=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 ----------------------------------------
-CHANNEL=EUROSPORT EN/ES - AQ 
-URL=https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
-----------------------------------------
-CHANNEL=EUROSPORT EN/CZ - AQ 
-URL=https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-DRM_SCHEME=clearkey
-DRM_KEY=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-----------------------------------------
 CHANNEL=FANCODE - AQ 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 DRM_SCHEME=clearkey
@@ -163,6 +153,11 @@ URL=https://chatgpt.hereisman.net/playlist/54963/load-playlist?|Referer=https://
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
+CHANNEL=WILLOW SPORTS - AQ 
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+----------------------------------------
 CHANNEL=SUKAN - AQ 
 URL=https://hoast-plm.shop/playztv/links.php?id=sukan.mpd
 DRM_SCHEME=clearkey
@@ -238,16 +233,6 @@ URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/45ec3cf5-cfd2-
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=Identity V | E-Sports
-URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/64b1d799-01e3-4d5b-a5da-74b3fa3fabf6/HLS_ENC/index.m3u8
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=Court 1 | Badminton
-URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/42ef9c34-2ae5-4b11-b6dc-f3a5378a582d/HLS_ENC/index.m3u8
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=Court 1 | Padel
 URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/4886be88-732c-4489-adbf-c1a880062acd/HLS_ENC/index.m3u8
 DRM_SCHEME=
@@ -258,18 +243,18 @@ URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/9b1df815-bd81-
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=Men's & Women's Teams Squash
-URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/81b32fea-b7ed-48ba-ad98-4bb8fc73b48c/HLS_ENC/index.m3u8
+CHANNEL=Women's & Men's | Weightlifting
+URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/613034ec-4ebd-437f-bc82-52f702c5dc91/HLS_ENC/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=Aquatics - Diving 
-URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/75cb6a03-d494-4384-95b4-768a6e708e7f/HLS_ENC/index.m3u8
+CHANNEL=Athletics
+URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/3ebaf592-9213-4946-bdb8-da5bd208be1e/HLS_ENC/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=China - Korea | Women's Softball
-URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/654e0847-819c-4713-90b6-ac9f718a5ce5/HLS_ENC/index.m3u8
+CHANNEL=Japan - Korea | Women's Football
+URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/4ad7999d-d73f-4448-827c-fae7e92ae579/HLS_ENC/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
@@ -303,6 +288,16 @@ URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 ----------------------------------------
+CHANNEL=HD STREAM 
+URL=https://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=SD STREAM 
+URL=http://193.47.62.41/hls/HHHHA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
 CHANNEL=SporTV BR FHD
 URL=https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
@@ -317,6 +312,16 @@ CHANNEL=beIN SPORTS FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
 DRM_KEY=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+----------------------------------------
+CHANNEL=HD SERVER
+URL=https://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=LOW SERVER
+URL=http://193.47.62.55/hls/HHHHAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
 CHANNEL=PlayZ TV Live
 URL=https://playztv.pages.dev/sss/index.m3u8
@@ -393,43 +398,38 @@ URL=http://193.47.62.59/hls/RRRRA.m3u8|referer=http://www.fawanews.sc/
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=SPORTV BR - AQ
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+CHANNEL=HD STREAM 
+URL=https://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=SD STREAM 
+URL=http://193.47.62.41/hls/HHHHAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=HD SERVER
+URL=https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
 CHANNEL=beIN SPORTS FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
 DRM_KEY=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 ----------------------------------------
-CHANNEL=FOX SPORTS - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=https://playztv.pages.dev/sss/index.m3u8
+CHANNEL=HD SERVER
+URL=https://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=TSN SPORTS FHD
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM_SCHEME=clearkey
-DRM_KEY=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+CHANNEL=LOW SERVER
+URL=http://193.47.62.59/hls/HHHHAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
-CHANNEL=TSN4 SPORTS FHD
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM_SCHEME=clearkey
-DRM_KEY=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-----------------------------------------
-CHANNEL=TSN5 SPORTS FHD
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM_SCHEME=clearkey
-DRM_KEY=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-----------------------------------------
-CHANNEL=HD STREAM 
-URL=https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+CHANNEL=PlayZ TV Live
+URL=https://playztv.pages.dev/sss/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
@@ -468,15 +468,60 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/ou
 DRM_SCHEME=clearkey
 DRM_KEY=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 ----------------------------------------
+CHANNEL=TAPMAD - AQ
+URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=HD STREAM 
+URL=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790673233-0-0-d9b02146e5b46a64f532d3394825e56e
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=PlayZ TV - AQ
+URL=https://hoast-plm.shop/playztv/links.php?id=asean.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=50c6039b44e5412290968affbe4575b0:08d36fa7dafe5dc55114845d0b73b9e4
+----------------------------------------
+CHANNEL=PLAYZTV - AQ 
+URL=https://hoast-plm.shop/playztv/links.php?id=asean2.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+----------------------------------------
+CHANNEL=ASEAN CUP - AQ
+URL=https://hoast-plm.shop/playztv/links.php?id=asean-vidio.m3u8
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=ISCREEN BD - AQ
+URL=https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|referer=https://iscreen.com.bd/&origin=https://iscreen.com.bd
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=HD STREAM
+URL=https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=TAPMAD S2 - AQ
+URL=https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=TOFFEE BD - AQ
+URL=https://baila-lento.pages.dev/ch1/index.m3u8
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=SD STREAM 
+URL=http://193.47.62.55/hls/EGGG.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
 CHANNEL=beIN SPORTS FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
 DRM_KEY=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-----------------------------------------
-CHANNEL=TEST
-URL=https://hoast-plm.shop/playztv/links.php?id=rtm-event1.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 ----------------------------------------
 CHANNEL=OMAN SPORTS - AQ
 URL=https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -490,6 +535,16 @@ DRM_KEY=
 ----------------------------------------
 CHANNEL=SD SERVER
 URL=http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=HD STREAM 
+URL=https://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=SD STREAM 
+URL=http://193.47.62.44/hls/HHHHAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
