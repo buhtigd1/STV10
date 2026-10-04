@@ -1,33 +1,3 @@
-CHANNEL=WILLOW - AQ 
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2
-----------------------------------------
-CHANNEL=PLAYZTV - AQ 
-URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/c300b14d-c455-481b-8b0c-f88b5fb200ae/HLS_ENC/index.m3u8
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=SONYLIV - AQ
-URL=https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/master.m3u8?hdnea=exp=1791026437~acl=/*~id=63474090427168417258067324640330~hmac=666ecd914c78fa39d68ba0f92a6a9c4eeaef24cfc8c9c48d25fbebeebe848665
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=SD STREAM
-URL=http://193.47.62.55/hls/AAAA.m3u8|referer=http://www.fawanews.sc/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=TAMASHA PRO 1 - AQ 
-URL=https://cdn04khi-n.tamashaweb.com:8087/jazzauth/AG-SVOD-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDI6Mzg6MDIgQU0maGFzaF92YWx1ZT1IcjY1NVJWMitqejduaEZGdmpMWjhBPT0mdmFsaWRtaW51dGVzPTYw
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=TAMASHA PRO 2 - AQ 
-URL=https://cdn04khi-n.tamashaweb.com:8087/jazzauth/AG-SVOD-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDI6Mzg6MDIgQU0maGFzaF92YWx1ZT1IcjY1NVJWMitqejduaEZGdmpMWjhBPT0mdmFsaWRtaW51dGVzPTYw
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=TNT SPORTS S2 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 DRM_SCHEME=clearkey
@@ -44,19 +14,24 @@ DRM_SCHEME=clearkey
 DRM_KEY=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 ----------------------------------------
 CHANNEL=APPLE TV - AQ 
-URL=https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jmkhzvjref/out/v1/33df23745a174bb1811fc2f96e900b08/cenc.mpd
+URL=https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/qg95ap2ngd/out/v1/351af353038c4a05af277388f24c4f8c/cenc.mpd
 DRM_SCHEME=clearkey
-DRM_KEY=22ab68dce16cc62dbdbf61a93fe9455e:5266d40464a632a3e6069ce8ccdab36c
+DRM_KEY=ad6abbc0c6e35344580087ef6a3fbf3b:cfff2c2e7ea9def66448406eef1911e9
 ----------------------------------------
 CHANNEL=SKY VIA APPLE TV - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ttmfhg11yd/out/v1/de59f982be774908a518a2458751a52c/cenc.mpd
+URL=https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/iryr4nfnvz/out/v1/56a65d76a55e49ffa4ac4669a8f9cf26/cenc.mpd
 DRM_SCHEME=clearkey
-DRM_KEY=7b093b15b677c732d99e94e4e7a7dc3f:a16ef774c00333b13c0572da8d13a3d3
+DRM_KEY=5734bfc9aca5e8e478c98f0617ae56f7:b24ed75de070e35c154feeb68fc21e57
 ----------------------------------------
 CHANNEL=TSN SPORTS - AQ 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
 DRM_KEY=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+----------------------------------------
+CHANNEL=AUVIO SPORTS FR - AQ 
+URL=https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/931c5c40.isml/.mpd?t=2026-10-04T06:48:00.000
+DRM_SCHEME=clearkey
+DRM_KEY=1a12683df1cd44ea890cf1bfefa77b89:44f4578b0e069b67a7a88ee406886d2e
 ----------------------------------------
 CHANNEL=Sportv 3 BR - AQ
 URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
@@ -173,16 +148,6 @@ URL=https://pz.ekkktb.workers.dev/?q=WWE vs wwe
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=ONE FIGHT - AQ 
-URL=https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=BEIN SPORTS - AQ 
-URL=http://hoast-plm.shop/starhub/hub.php?id=beINSports3NEW.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
-----------------------------------------
 CHANNEL=WILLOW SPORTS - AQ 
 URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 DRM_SCHEME=clearkey
@@ -258,8 +223,8 @@ URL=https://asian-games-4512.playzabid.workers.dev/asian-games-ch07.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=fd5881a779d148e18fb48d120bfb0056:5f7e80016181020e087586c4f7942929
 ----------------------------------------
-CHANNEL=Semi-finals & Finals | Archery
-URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/ffde882d-ffdd-4fe6-be2b-69bd68dcb23f/HLS_ENC/index.m3u8
+CHANNEL=Closing Ceremony
+URL=https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/6445eadd-14c0-4fb1-b5d3-f0d26a8ea8ae/HLS_ENC/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
@@ -303,46 +268,6 @@ URL=http://193.47.62.41/hls/fafafaAA.m3u8|referer=http://www.fawanews.sc/
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=PARAMOUNT+ - AQ
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ej80ruf35n/out/v1/fee46a895a76426eb2e5f13a045c6c95/befe6c61-480a-4063-a7a4-bd1b76f5e0df-cenc.mpd?aws_sessionId=c2effc63-fa98-4932-88fe-d0133d24a27d
-DRM_SCHEME=clearkey
-DRM_KEY=555002659e06532881e22447986a79da:8ece00ca4e37a67a8763f5b2ff60e948
-----------------------------------------
-CHANNEL=PARAMOUNT+ HD
-URL=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/25.m3u8
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=TNT SPORTS - AQ
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-----------------------------------------
-CHANNEL=SPORTSNET - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM_SCHEME=clearkey
-DRM_KEY=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
-----------------------------------------
-CHANNEL=HD STREAM 
-URL=https://edgestream3.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=SD STREAM 
-URL=http://193.47.62.55/hls/geee.m3u8|referer=http://www.fawanews.sc/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=TAPMAD - AQ
-URL=https://tpandsl.itself444.workers.dev/?q=Wang
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=UFC TV - AQ
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
-----------------------------------------
 CHANNEL=TENNIS CHANNEL - AQ 
 URL=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 DRM_SCHEME=
@@ -368,21 +293,6 @@ URL=https://playztv.pages.dev/sss/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=AD SPORTS EN/AR - AQ 
-URL=https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
-----------------------------------------
-CHANNEL=TAPMAD - AQ 
-URL=https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=EUROSPORT - AQ 
-URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-----------------------------------------
 CHANNEL=FOX SPORTS FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
@@ -398,38 +308,28 @@ URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 ----------------------------------------
-CHANNEL=TSN SPORTS - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-----------------------------------------
-CHANNEL=TSN SPORTS S2 - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-----------------------------------------
-CHANNEL=CANAL 5 - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-----------------------------------------
-CHANNEL=TUDN SPORTS - AQ
-URL=https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-----------------------------------------
-CHANNEL=NBC UNIVERSO [USA]
-URL=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-----------------------------------------
 CHANNEL=CBS SPORTS 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
 DRM_KEY=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 ----------------------------------------
-CHANNEL=TNT SPORTS - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+CHANNEL=WILLOW - AQ 
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vgvtvcvqun/out/v1/f0b20eb59a9047a58a2c7234ca84ae70/cenc.mpd
 DRM_SCHEME=clearkey
-DRM_KEY=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+DRM_KEY=4191cd14283b963a1bdafcc9cada82f4:4087250da5d99f2ecd69546c34972ee1
+----------------------------------------
+CHANNEL=FANCODE - AQ 
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+----------------------------------------
+CHANNEL=WILLOW SPORTS - AQ 
+URL=https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+----------------------------------------
+CHANNEL=FANCODE IN - AQ 
+URL=https://dai-fancode.pages.dev/mumbai/4249221_hindi_hls_c354070f3b77955_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
