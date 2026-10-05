@@ -124,8 +124,7 @@ DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
 CHANNEL=DAZN - AQ 
-URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ybtrwcnwie/out/v1/72e3f309ec3749c7805ec7979f340e28/cenc.mpd
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdglxe7d7f/out/v1/7addc8a792784363b5d4045580c91a26/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdglxe7d7f/out/v1/7addc8a792784363b5d4045580c91a26/cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=3cfbb634d8c7f031192ef2bbce7eb48e:32865064a120059ec82d2ac08e9e2ef6
 ----------------------------------------
@@ -479,21 +478,6 @@ URL=http://193.47.62.44/hls/JKKKQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 1
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=PlayZ TV LIVE
-URL=https://www.rtmpcdn.com/live/cae677b9-3c86-4d1f-8a4a-55627008c54b.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=HD SERVER
-URL=https://live1.dyrur1.com/live/74931226_52f97f4445d9ee604b78d92ffa5daf81_540p.m3u8?auth_key=1791150820-0-0-d141572898cf91cf1d9a8f2a561336c7
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=LOW SERVER
-URL=http://193.47.62.50/hls/JKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=beIN SPORTS FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM_SCHEME=clearkey
@@ -558,16 +542,6 @@ CHANNEL=FANCODE - AQ
 URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-----------------------------------------
-CHANNEL=HD SERVER
-URL=https://www.rtmpcdn.com/live/bf31d277-1715-4960-847c-39e0ca7e754c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=LOW SERVER
-URL=http://193.47.62.50/hls/JKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-DRM_SCHEME=
-DRM_KEY=
 ----------------------------------------
 CHANNEL=beIN SPORTS FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -684,10 +658,20 @@ URL=http://193.47.62.50/hls/zcccq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; 
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
+CHANNEL=NFL - AQ 
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/czr0xkkcv2/out/v1/ce9facdf04b24f409e89decf0f5b8884/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=d6450102c3e09221d8fde9129cce153a:ee9820ac8ea30d8f217f96f7a8c795d5
+----------------------------------------
 CHANNEL=HD STREAM 
 URL=https://edgestream4.pro/hls/ijzriafaq41.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 DRM_SCHEME=
 DRM_KEY=
+----------------------------------------
+CHANNEL=NFL - AQ 
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wsqakvzypr/out/v1/b09ef7172cd548ae854c89de5adb77f4/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=65d2c3fc4aca1484dbf9b39b0b495374:4197f60aa0b8e43a4dde7b18933efdd0
 ----------------------------------------
 CHANNEL=HD STREAM 
 URL=https://edgestream5.pro/hls/wnbcnxbcs42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -724,6 +708,11 @@ URL=https://edgestream7.pro/hls/jnknjfzbk35.m3u8|User-Agent=Mozilla/5.0 (Windows
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
+CHANNEL=FOX NFL - AQ 
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/x9bbacauuk/out/v1/aa09d4975f5342f395cb925a435e7082/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=02fc0fa1778d34df10eb820d3dd9faf4:51a3e87594a01393aa37483be6a4410f
+----------------------------------------
 CHANNEL=HD STREAM 
 URL=https://edgestream7.pro/hls/cwxcnbscbsq39.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 DRM_SCHEME=
@@ -753,6 +742,11 @@ CHANNEL=LOW QUALITY
 URL=http://193.47.62.50/hls/zcccqqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 DRM_SCHEME=
 DRM_KEY=
+----------------------------------------
+CHANNEL=NFL - AQ 
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lmhcovriuw/out/v1/cc4830f50ff9438b9143c4c98e02c680/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=8816c7a56b7eac4c1d2cc38e0073121c:beb39006870feb7b3d2c89a927a08832
 ----------------------------------------
 CHANNEL=TSN SPORTS FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
