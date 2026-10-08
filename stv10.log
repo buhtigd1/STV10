@@ -1,33 +1,3 @@
-CHANNEL=WILLOW - AQ 
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hisuccmfy3/out/v1/e8179e69229e45e6ba12d824db6b253c/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=22b39944fbc72c99a799c0063af5b769:6613e69fa21ca8674eb430c491ac31dc
-----------------------------------------
-CHANNEL=STARZPLAY - AQ
-URL=https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?
-DRM_SCHEME=clearkey
-DRM_KEY=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-----------------------------------------
-CHANNEL=WILLOW SPORTS - AQ 
-URL=https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-----------------------------------------
-CHANNEL=WILLOW S2 - AQ
-URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hisuccmfy3/out/v1/e8179e69229e45e6ba12d824db6b253c/cenc.mpd
-DRM_SCHEME=clearkey
-DRM_KEY=22b39944fbc72c99a799c0063af5b769:6613e69fa21ca8674eb430c491ac31dc
-----------------------------------------
-CHANNEL=FANCODE EN - IN
-URL=https://dai-fancode.pages.dev/mumbai/4249224_english_hls_6e34c851e257087_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=FANCODE HIN - IN
-URL=https://dai-fancode.pages.dev/mumbai/4249224_hindi_hls_1ae898c5db13786_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
 CHANNEL=FANCODE - AQ 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 DRM_SCHEME=clearkey
@@ -212,11 +182,6 @@ CHANNEL=LALIGA HYPEMOTION ES - AQ
 URL=https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-----------------------------------------
-CHANNEL=PLAYZTV 
-URL=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791413135~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=44f83e1dbe5e1d86c53592daa140115031f0a74074bfface2847e588008e9de3/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-DRM_SCHEME=clearkey
-DRM_KEY=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 ----------------------------------------
 CHANNEL=TNT SPORTS - AQ 
 URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
@@ -491,11 +456,6 @@ DRM_KEY=
 ----------------------------------------
 CHANNEL=HD STREAM 
 URL=https://edgestream6.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=SD STREAM 
-URL=http://193.47.62.59/hls/UUUUQQQQ.m3u8|referer=http://www.fawanews.sc/
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
