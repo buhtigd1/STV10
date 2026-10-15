@@ -129,6 +129,28 @@ https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e
 https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1792010520~acl=%2f*~id=3a31e92afa0082a4a180db7dca0dd619~data=hdntl~hmac=a53d745fdb2ffdb02b427b6a800725c021bbd9734ba582be21d568e35b493f90&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="Sports",TNT SPORTS FHD
 https://papacito.cfd/m3u/uk-t3434334/live.m3u8
+#EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW - AQ" tvg-logo="" group-title="Sports",WILLOW - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="TAPMAD BDIX" tvg-logo="" group-title="Sports",TAPMAD BDIX
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW S2 - AQ" tvg-logo="" group-title="Sports",WILLOW S2 - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="TAPMAD BD - AQ" tvg-logo="" group-title="Sports",TAPMAD BD - AQ
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="A SPORTS HD" tvg-logo="" group-title="Sports",A SPORTS HD
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+#EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW HD" tvg-logo="" group-title="Sports",WILLOW HD
+https://baila-lentoo.pages.dev/all-sp/809386.m3u8
+#EXTINF:-1 tvg-id="unknown" tvg-name="T SPORTS HD" tvg-logo="" group-title="Sports",T SPORTS HD
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 tvg-id="unknown" tvg-name="PARAMOUNT+ - AQ" tvg-logo="" group-title="Sports",PARAMOUNT+ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -163,6 +185,26 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1
 https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
 #EXTINF:-1 tvg-id="unknown" tvg-name="SONYLIV HIN - AQ " tvg-logo="" group-title="Sports",SONYLIV HIN - AQ 
 https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/HIN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+#EXTINF:-1 tvg-id="unknown" tvg-name="FANCODE - AQ" tvg-logo="" group-title="Sports",FANCODE - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW - AQ" tvg-logo="" group-title="Sports",WILLOW - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="SKY CRICKET - AQ" tvg-logo="" group-title="Sports",SKY CRICKET - AQ
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
+#EXTINF:-1 tvg-id="unknown" tvg-name="TAPMAD - AQ" tvg-logo="" group-title="Sports",TAPMAD - AQ
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="FOX CRICKET HD" tvg-logo="" group-title="Sports",FOX CRICKET HD
+https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+#EXTINF:-1 tvg-id="unknown" tvg-name="SKY CRICKET HD" tvg-logo="" group-title="Sports",SKY CRICKET HD
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
 #EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW - AQ " tvg-logo="" group-title="Sports",WILLOW - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
