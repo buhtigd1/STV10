@@ -3,6 +3,32 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="FANCODE - AQ" tvg-logo="" group-title="Sports",FANCODE - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW S2 - AQ" tvg-logo="" group-title="Sports",WILLOW S2 - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="TAPMAD - AQ" tvg-logo="" group-title="Sports",TAPMAD - AQ
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|referer=https://www.tapmad.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="FANCODE IN " tvg-logo="" group-title="Sports",FANCODE IN 
+https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="A SPORTS HD" tvg-logo="" group-title="Sports",A SPORTS HD
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+#EXTINF:-1 tvg-id="unknown" tvg-name="T SPORTS HD" tvg-logo="" group-title="Sports",T SPORTS HD
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
+#EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW - AQ" tvg-logo="" group-title="Sports",WILLOW - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bfeaf0c7782327ca574f32b1629080b6:c03b21556a4cf97130228258de3fe45d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oazcbevnl7/out/v1/bda05b242720469ca9fb9fabbde64cc2/cenc.mpd
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT SPORTS - AQ " tvg-logo="" group-title="Sports",TNT SPORTS - AQ 
@@ -364,13 +390,13 @@ https://hoast-plm.shop/playztv/links.php?id=setanta2.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242326~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=57a8b1f97fb2176b0aedc034f394ef07a3f199d25f3ff9c1f9d018adb7e9c6c0/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792257628~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=bbf7a902c505397d25248f8718a613a2fcec2e670d9f365ed81d47e4fefc8d61/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="unknown" tvg-name="ICCTV NEP - AQ " tvg-logo="" group-title="Sports",ICCTV NEP - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792244176~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=b3e147c7b129316c1ee7342b8faee12dda6284de83e775006743b311c8b44acb/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792257933~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=bf517b0fd21c20f4b6eb8a36bca73032c0783dd57a9bbff290ddd628457a0db0/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="unknown" tvg-name="WILLOW - AQ " tvg-logo="" group-title="Sports",WILLOW - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -399,20 +425,24 @@ http://193.47.62.41/hls/krrr.m3u8|referer=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9896b6a4790e0fe7d1b1253a5901949a:49dd5b421ca126b7d46daaebff358f13
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="unknown" tvg-name="FOX DEPORTES - AQ " tvg-logo="" group-title="Sports",FOX DEPORTES - AQ 
+#EXTINF:-1 tvg-id="unknown" tvg-name="PARAMOUNT+ FHD" tvg-logo="" group-title="Sports",PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-#EXTINF:-1 tvg-id="unknown" tvg-name="TAPMAD - AQ " tvg-logo="" group-title="Sports",TAPMAD - AQ 
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-id="unknown" tvg-name="THMANYAH HD" tvg-logo="" group-title="Sports",THMANYAH HD
-https://baila-lentoo.pages.dev/thm-arb/1264556.m3u8
-#EXTINF:-1 tvg-id="unknown" tvg-name="THMANYAH FHD" tvg-logo="" group-title="Sports",THMANYAH FHD
-https://baila-lentoo.pages.dev/thm-arb/1264554.m3u8
-#EXTINF:-1 tvg-id="unknown" tvg-name="HD" tvg-logo="" group-title="Sports",HD
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#KODIPROP:inputstream.adaptive.license_key=b20204301c9811c83e2777b83801d36d:c31f546034f6af6525e870678a8326d8
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/iu2bdcrjzs/out/v1/e22d52e5cefe49998aaaa751972e18cc/353410b3-f51d-482b-815a-48bb7acc8edd-cenc.mpd?aws_sessionId=94e58c6e-7fd5-4577-94c4-a8512eb680bf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="Sports",beIN ENGLISH FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="unknown" tvg-name="CBS SPORTS - AQ " tvg-logo="" group-title="Sports",CBS SPORTS - AQ 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="unknown" tvg-name="SKY SPORTS PL - AQ" tvg-logo="" group-title="Sports",SKY SPORTS PL - AQ
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https
 #EXTINF:-1 tvg-id="unknown" tvg-name="LALIGA HYPEMOTION ES - AQ " tvg-logo="" group-title="Sports",LALIGA HYPEMOTION ES - AQ 
@@ -421,18 +451,40 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="FANCODE FHD" tvg-logo="" group-title="Sports",FANCODE FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="unknown" tvg-name="D Sports FHD" tvg-logo="" group-title="Sports",D Sports FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="unknown" tvg-name="PlayZ TV Live " tvg-logo="" group-title="Sports",PlayZ TV Live 
+https://live.vivo155.com/live/hd-en-1-4565453.m3u8?txSecret=5debf53a89fcab13af880f51afd5c51b&txTime=6AD37035|Referer=https://player.online878.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="ESPN DEPORTES HD" tvg-logo="" group-title="Sports",ESPN DEPORTES HD
+https://chatgpt.hereisman.net/playlist/58131/load-playlist-multi?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="Sports",beIN ENGLISH FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT SPORTS - AQ " tvg-logo="" group-title="Sports",TNT SPORTS - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 #EXTINF:-1 tvg-id="unknown" tvg-name="AUVIO SPORTS - AQ " tvg-logo="" group-title="Sports",AUVIO SPORTS - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba59c3633c514f878538fed88cdfa8f0:1afaa36460f9672cd04d7a5ad675309d
-https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/0d37ab6f.isml/.mpd?t=2026-10-16T08:53:00.000
+#KODIPROP:inputstream.adaptive.license_key=1ac14c6758e347b1bf5647d429b30a8e:ac293f475c10403dbd4111bf6b1ca842
+https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/f7ab9588.isml/.mpd?t=2026-10-17T09:28:00.000
 #EXTINF:-1 tvg-id="unknown" tvg-name="EUROSPORT CZ - AQ " tvg-logo="" group-title="Sports",EUROSPORT CZ - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -441,6 +493,38 @@ https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/0d37ab6f.isml/.mpd?t=2
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="unknown" tvg-name="EUROSPORT EN - AQ " tvg-logo="" group-title="Sports",EUROSPORT EN - AQ 
 https://spovt.ru/bpk-tv/000002479/tve/index.m3u8|referer=https://spovt.ru
+#EXTINF:-1 tvg-id="unknown" tvg-name="TNT SPORTS FHD" tvg-logo="" group-title="Sports",TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="unknown" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="Sports",FUBO SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vy6aqkduw4/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/74b39ba4-f96b-4c94-87f1-84d5699feef8-cenc.mpd?aws_sessionId=ac7421b8-d652-4f82-beff-564aa2256470|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="unknown" tvg-name="PlayZ TV Live" tvg-logo="" group-title="Sports",PlayZ TV Live
+https://live.vivo155.com/live/hd-en-1-4558601.m3u8?txSecret=c2e70e8342b22f11891f98611eb37dfe&txTime=6AD3691C|Referer=https://player.online878.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="USA TV HD" tvg-logo="" group-title="Sports",USA TV HD
+https://chatgpt.hereisman.net/playlist/58128/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-id="unknown" tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="Sports",beIN SPORTS FHD
+https://primetv.cc.cd/beinfhd1/index.m3u8
+#EXTINF:-1 tvg-id="unknown" tvg-name="SD SERVER" tvg-logo="" group-title="Sports",SD SERVER
+http://193.47.62.59/hls/5JJJ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-id="unknown" tvg-name="SONYLIV " tvg-logo="" group-title="Sports",SONYLIV 
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd
+#EXTINF:-1 tvg-id="unknown" tvg-name="HD STREAM " tvg-logo="" group-title="Sports",HD STREAM 
+https://tg071gr4uqmtt8y41hcjzgezdrmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=7ff829e3e09ae23353ef833d257dd1c8&wsABSTime=1792280695&wsSession=d21c125e073ff49f2961675b-179223749797623&wsIPSercert=1f52694978bed798efc6d5534e601d4c&wsBindIP=2&wsserid=1168309218210984056
+#EXTINF:-1 tvg-id="unknown" tvg-name="SONYLIV HINDI " tvg-logo="" group-title="Sports",SONYLIV HINDI 
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd
+#EXTINF:-1 tvg-id="unknown" tvg-name="PREMIER SPORTS - AQ " tvg-logo="" group-title="Sports",PREMIER SPORTS - AQ 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 tvg-id="unknown" tvg-name="PREMIER SPORTS - AQ " tvg-logo="" group-title="Sports",PREMIER SPORTS - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -453,23 +537,23 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="unknown" tvg-name="SPORTDIGITAL 1+ - AQ " tvg-logo="" group-title="Sports",SPORTDIGITAL 1+ - AQ 
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
-#EXTINF:-1 tvg-id="unknown" tvg-name="PREMIER SPORTS - AQ " tvg-logo="" group-title="Sports",PREMIER SPORTS - AQ 
+#EXTINF:-1 tvg-id="unknown" tvg-name="SHAHID SPORTS - AQ " tvg-logo="" group-title="Sports",SHAHID SPORTS - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="unknown" tvg-name="PREMIER SPORTS - AQ " tvg-logo="" group-title="Sports",PREMIER SPORTS - AQ 
+#KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="PlayZ TV Live " tvg-logo="" group-title="Sports",PlayZ TV Live 
+https://live.vivo155.com/live/sd-1-4566597.m3u8?txSecret=3546e6c42e9b37e7d7a6e953e1305087&txTime=6AD362E1|Referer=https://player.online878.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="PlayZ TV Live" tvg-logo="" group-title="Sports",PlayZ TV Live
+https://live.vivo155.com/live/sd-1-4563633.m3u8?txSecret=e43d776df12fe47f913236e1c87981df&txTime=6AD36BB0|Referer=https://player.online878.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="SHAHID SPORTS - AQ " tvg-logo="" group-title="Sports",SHAHID SPORTS - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="unknown" tvg-name="PREMIER SPORTS - AQ " tvg-logo="" group-title="Sports",PREMIER SPORTS - AQ 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
+#EXTINF:-1 tvg-id="unknown" tvg-name="HD STREAM " tvg-logo="" group-title="Sports",HD STREAM 
+https://live.vivo155.com/live/sd-1-4566558.m3u8?txSecret=faa3f262865ead6d2063d5e2bb052f8e&txTime=6AD3630F|Referer=https://player.online878.com/
+#EXTINF:-1 tvg-id="unknown" tvg-name="PLAYZ TV FHD " tvg-logo="" group-title="Sports",PLAYZ TV FHD 
+https://live.vivo155.com/live/sd-1-4563628.m3u8?txSecret=9b8bcf75ff2c65a257834fcc1d0e8199&txTime=6AD36BEA|Referer=https://player.online878.com/
