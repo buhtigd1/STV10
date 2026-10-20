@@ -208,6 +208,11 @@ URL=https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653v
 DRM_SCHEME=clearkey
 DRM_KEY=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 ----------------------------------------
+CHANNEL=STAN SPORTS - AQ (AUS) 
+URL=https://live02-stan.akamaized.net/out/v1/8e4645a8fd0440588b1331963e7b676e/index.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=f675d1bd10dd4b658503f8fcb4c86a68:def93d53f1906f1d350b62dc15cf207b
+----------------------------------------
 CHANNEL=WILLOW - AQ 
 URL=https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
 DRM_SCHEME=clearkey
@@ -278,10 +283,55 @@ URL=https://spovt.ru/bpk-tv/000002479/tve/index.m3u8|referer=https://spovt.ru
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
+CHANNEL=WILLOW - AQ
+URL=https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
+----------------------------------------
+CHANNEL=FANCODE - AQ
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+----------------------------------------
+CHANNEL=TAPMAD - AQ
+URL=https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=FOX CRICKET HD
+URL=https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=EUROSPORT HD
+URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
+----------------------------------------
+CHANNEL=SKY CRICKET HD
+URL=http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=FANCODE IN
+URL=https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=WILLOW - AQ 
+URL=https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qwmeeshe1/out/v1/c3d42e2bf228478ca14d236ae11f8804/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
+----------------------------------------
 CHANNEL=FANCODE - AQ
 URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+----------------------------------------
+CHANNEL=WILLOW S2 - AQ 
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qwmeeshe1/out/v1/c3d42e2bf228478ca14d236ae11f8804/cenc.mpd
+DRM_SCHEME=clearkey
+DRM_KEY=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
 ----------------------------------------
 CHANNEL=WILLOW SPORTS
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
@@ -309,19 +359,24 @@ DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
 CHANNEL=WILLOW - AQ 
-URL=https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
+URL=https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd
 DRM_SCHEME=clearkey
-DRM_KEY=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
+DRM_KEY=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
+----------------------------------------
+CHANNEL=SKY CRICKET - AQ 
+URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
 CHANNEL=TAPMAD - AQ 
-URL=https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
+URL=https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
 CHANNEL=WILLOW S2 - AQ 
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7mtkevhkp8/out/v1/0e763683a5224a2f8203d7f457fe0a96/cenc.mpd
+URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd
 DRM_SCHEME=clearkey
-DRM_KEY=e37c80506a66e5c7aa2613b5e8254e07:22fb176c5e8295133385d975520b150c
+DRM_KEY=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
 ----------------------------------------
 CHANNEL=PEO TV - AQ 
 URL=https://hoast-plm.shop/playztv/links.php?id=peo1.mpd
@@ -329,7 +384,7 @@ DRM_SCHEME=clearkey
 DRM_KEY=3942bb0dd3a2c6c22814705725e22885:8cea7d844678df5ad86bf851d27a7f69
 ----------------------------------------
 CHANNEL=TAPMAD PK - AQ
-URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/
+URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
@@ -344,7 +399,7 @@ DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
 CHANNEL=TAPMAD HD
-URL=https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap259/master.m3u8|referer=https://tapmad.com/
+URL=https://d8j84o343a5m2.cloudfront.net/live/watchtapmadfree-1/master.m3u8|referer=https://tapmad.com/
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
@@ -397,6 +452,16 @@ CHANNEL=PlayZ TV
 URL=https://playztv.pages.dev/sss/index.m3u8
 DRM_SCHEME=
 DRM_KEY=
+----------------------------------------
+CHANNEL=FANCODE IN
+URL=https://dai-fancode.pages.dev/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=PlayZ LIVE EN - AQ
+URL=https://nameless-wave-323e.p-szsk.workers.dev/?id=2&e=.mpd|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+DRM_SCHEME=clearkey
+DRM_KEY=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 ----------------------------------------
 CHANNEL=beIN ENGLISH FHD
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -457,4 +522,19 @@ CHANNEL=TNT SPORTS - AQ
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 DRM_SCHEME=clearkey
 DRM_KEY=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+----------------------------------------
+CHANNEL=BeIN ARABIC HD
+URL=https://baila-lentoo.pages.dev/beinxmq/bein-sports-1x.m3u8
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=SD STREAM 
+URL=http://193.47.62.55/hls/HBBBA.m3u8|referer=http://www.fawanews.sc/
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=HD STREAM 
+URL=https://live2.jorvakstreamcache.com/live/channel8.m3u8|referer=https://soco.domainkqt.cc/
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
