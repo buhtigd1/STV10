@@ -1,20 +1,20 @@
-CHANNEL=TNT SPORTS - AQ 
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+CHANNEL=SS SPORTS FHD
+URL=https://baila-lentoo.pages.dev/all-sp/373201.m3u8
 HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
-CHANNEL=FANCODE - AQ
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+CHANNEL=PlayZ TV Live
+URL=https://playztv.pages.dev/sss/index.m3u8
 HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
-CHANNEL=FANCODE - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+CHANNEL=PlayZ TV Live
+URL=https://playztv.pages.dev/sss/index.m3u8
 HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+DRM_SCHEME=
+DRM_KEY=
 ----------------------------------------
 CHANNEL=PLAYZ TV HD
 URL=https://pz.ekkktb.workers.dev/?q=WWE vs wwe
@@ -22,80 +22,32 @@ HTTP_STATUS=200
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
+CHANNEL=FOX SPORTS
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+----------------------------------------
 CHANNEL=BEIN SPORTS - AQ 
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 ----------------------------------------
-CHANNEL=BEIN SPORTS - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-----------------------------------------
-CHANNEL=TENNIS 2 - AQ 
-URL=https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-----------------------------------------
-CHANNEL=FORMULA 1 FHD
-URL=https://admin2.formaturamaxi.com.br/f1.m3u8
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=FANCODE - AQ
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+CHANNEL=FANCODE - AQ 
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 ----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=https://playztv.pages.dev/sss/index.m3u8
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PlayZ TV Live
-URL=https://playztv.pages.dev/sss/index.m3u8
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=EUROSPORT - AQ 
-URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-----------------------------------------
-CHANNEL=EUROSPORT - AQ 
-URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-----------------------------------------
-CHANNEL=CBS SPORTS - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-----------------------------------------
-CHANNEL=SS SPORTS FHD
-URL=https://baila-lentoo.pages.dev/all-sp/373201.m3u8
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=WILLOW - AQ
-URL=https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d
-----------------------------------------
 CHANNEL=ONE FIGHT - AQ 
 URL=https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8
+HTTP_STATUS=200
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=FORMULA 1 FHD
+URL=https://admin2.formaturamaxi.com.br/f1.m3u8
 HTTP_STATUS=200
 DRM_SCHEME=
 DRM_KEY=
@@ -106,41 +58,41 @@ HTTP_STATUS=200
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
+CHANNEL=EUROSPORT - AQ 
+URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
+----------------------------------------
+CHANNEL=EUROSPORT - AQ 
+URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
+----------------------------------------
 CHANNEL=TNT SPORTS - AQ
 URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 ----------------------------------------
-CHANNEL=Sportscast FHD
-URL=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10aebb0b-9c74-4664-abd9-acc9085c27e8/master.m3u8
+CHANNEL=TNT SPORTS - AQ 
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
+DRM_SCHEME=clearkey
+DRM_KEY=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+----------------------------------------
+CHANNEL=WILLOW - AQ
+URL=https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ezgg5lj3v/out/v1/e6092692ffac4419aab30cecd66d3470/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d
 ----------------------------------------
 CHANNEL=TNT SPORTS - AQ
 URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-----------------------------------------
-CHANNEL=EUROSPORT EN - AQ 
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=8c17752768447a2ff801b87f7a390781:90375b77c0f6d271caef3c8accd4f1ae
-----------------------------------------
-CHANNEL=FOX SPORTS
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-----------------------------------------
-CHANNEL=PREMIER SPORTS - AQ 
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 ----------------------------------------
 CHANNEL=FANCODE - AQ
 URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
@@ -148,185 +100,11 @@ HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 ----------------------------------------
-CHANNEL=FANCODE HD
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+CHANNEL=FANCODE - AQ
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
-DRM_KEY=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
-----------------------------------------
-CHANNEL=WILLOW SPORTS
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-----------------------------------------
-CHANNEL=SPORTDIGITAL - AQ 
-URL=https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=EUROSPORT - AQ
-URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-----------------------------------------
-CHANNEL=SPORTDIGITAL - AQ 
-URL=https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=EUROSPORT - AQ
-URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-----------------------------------------
-CHANNEL=WILLOW SPORTS
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-----------------------------------------
-CHANNEL=SPORTDIGITAL - AQ 
-URL=https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=FUBO SPORTS FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=882cb45b-b0fd-4d57-999a-97cbc604a9b0
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
-----------------------------------------
-CHANNEL=SKY SPORTS EPL - FHD
-URL=https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=FUBO SPORTS FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/amuyymjcj2/out/v1/a8645e4080344c53b38dc66983651d99/cenc.mpd?aws_sessionId=25519975-5ffe-4b33-b5c8-3b2887253f88|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=36f34feef3a98cfd89ae85712df3db23:afd105a07e251c2a37b36d6066d1822b
-----------------------------------------
-CHANNEL=beIN SPORTS FHD
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-----------------------------------------
-CHANNEL=beIN SPORTS FHD
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-----------------------------------------
-CHANNEL=SportDigital Fussball
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-----------------------------------------
-CHANNEL=PARAMOUNT+ FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hqhvjrfpwc/out/v1/f566359c50874125af5052aec7078171/cenc.mpd?aws_sessionId=3c07c0ee-c5a3-4477-8580-109158b3ca3f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=400f2178dd7865fcb5e06045e39b017b:4d1504126895b88eece045e1f8e3e592
-----------------------------------------
-CHANNEL=beIN SPORTS FHD
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-----------------------------------------
-CHANNEL=SKY CRICKET - AQ
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=PARAMOUNT+ FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z7k5coaglr/out/v1/f798f09d4b6b44de82700e47ff0207f6/cenc.mpd?aws_sessionId=d30fa58d-89fd-47ee-9f14-3bb210aa2b9e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=f905d936f4562b52ee955d3ff3dcd06c:65f555c4104074c2f2d2fe7a9f685ed5
-----------------------------------------
-CHANNEL=CAZE TV FHD
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-----------------------------------------
-CHANNEL=beIN SPORTS FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-----------------------------------------
-CHANNEL=NFL GAMEPASS - AQ
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6ghtddqemm/out/v1/a284680840d04b8ca78da1e6e48d85a4/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=6e84df3c5ab6cc4542e2bb032888fb78:f70a093df9f2afa85b2ae89fefdbe6cb
-----------------------------------------
-CHANNEL=FUBO SPORTS FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aqhzignd6x/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd?aws_sessionId=21a3c037-f46e-4e80-9fa0-71f5e55b4bd5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=8d1a722ce6166c97ae3ef028a3cc83bd:22cd575e524b0bf0520efb15034c67d3
-----------------------------------------
-CHANNEL=PARAMOUNT+ FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sg26hcq4jb/out/v1/cbefa7d3aa044a42b3fbb2d9f0ed8771/cenc.mpd?aws_sessionId=6f72bd41-cc05-4448-bdc8-0110b089a955|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=65bf781cc51efe95158616c012821dee:1fdadf8f65dc2dee9de4bd299a219263
-----------------------------------------
-CHANNEL=PARAMOUNT+ EN/IT
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lbs21k4mtp/out/v1/222d7fffcc5b4b9dad0567fdb0af01a4/cenc.mpd?aws_sessionId=eaa2680d-9e1c-4ea2-a024-73f94036e317|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=98342fab63b4e326f32acbd643721f5f:8c39f70abf21ff4a3908025e72af3e86
-----------------------------------------
-CHANNEL=SPORT 1 CZ FHD
-URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-----------------------------------------
-CHANNEL=SPORT 1 CZ FHD
-URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-----------------------------------------
-CHANNEL=beIN SPORTS FHD
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-----------------------------------------
-CHANNEL=LALIGA HYPEMOTION ES - AQ 
-URL=https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-----------------------------------------
-CHANNEL=SKY CRICKET - AQ
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
-HTTP_STATUS=200
-DRM_SCHEME=
-DRM_KEY=
-----------------------------------------
-CHANNEL=TSN 
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-HTTP_STATUS=200
-DRM_SCHEME=clearkey
-DRM_KEY=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+DRM_KEY=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 ----------------------------------------
 CHANNEL=Sportv 3 BR - AQ
 URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
@@ -334,29 +112,89 @@ HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 ----------------------------------------
-CHANNEL=NFL GAMEPASS - AQ
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xx6cp8hvry/out/v1/afe92e12a7cc4a7fb3a971963b8a789f/cenc.mpd
+CHANNEL=TENNIS 2 - AQ 
+URL=https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
-DRM_KEY=3424b4b11fc437618d745899a1462dbe:b893f41749b700fd8bea8ac40add9b8a
+DRM_KEY=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 ----------------------------------------
-CHANNEL=FHD
-URL=https://thedaddy.pk/watch.php?id=587
+CHANNEL=Sportscast FHD
+URL=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10aebb0b-9c74-4664-abd9-acc9085c27e8/master.m3u8
 HTTP_STATUS=200
 DRM_SCHEME=
 DRM_KEY=
 ----------------------------------------
-CHANNEL=NFL GAMEPASS - AQ
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/g0qjga9edn/out/v1/aea06bfc646045b08e1c15124d19d345/cenc.mpd
+CHANNEL=EUROSPORT - AQ
+URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
-DRM_KEY=3b3580b4daf25bbf11f4c3cd011fe360:67e43f5b08cea0ebd3643b582bab430e
+DRM_KEY=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
+----------------------------------------
+CHANNEL=EUROSPORT EN - AQ 
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=8c17752768447a2ff801b87f7a390781:90375b77c0f6d271caef3c8accd4f1ae
+----------------------------------------
+CHANNEL=FANCODE HD
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+----------------------------------------
+CHANNEL=BEIN SPORTS - AQ 
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 ----------------------------------------
 CHANNEL=NFL GAMEPASS - AQ
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/z0fmnuemex/out/v1/0e3acebe1705493db8051047c4cfe821/cenc.mpd
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=22f125b5721ad4b08b2fd5640117a84a:9f3579b0759dbc527bec14638027d25f
+----------------------------------------
+CHANNEL=WILLOW SPORTS
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+----------------------------------------
+CHANNEL=SportDigital Fussball
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+----------------------------------------
+CHANNEL=LALIGA HYPEMOTION ES - AQ 
+URL=https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+----------------------------------------
+CHANNEL=TSN 
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+----------------------------------------
+CHANNEL=SKY CRICKET - AQ
+URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
+HTTP_STATUS=200
+DRM_SCHEME=
+DRM_KEY=
+----------------------------------------
+CHANNEL=NFL GAMEPASS - AQ
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xx6cp8hvry/out/v1/afe92e12a7cc4a7fb3a971963b8a789f/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=3424b4b11fc437618d745899a1462dbe:b893f41749b700fd8bea8ac40add9b8a
+----------------------------------------
+CHANNEL=NFL GAMEPASS - AQ
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6ghtddqemm/out/v1/a284680840d04b8ca78da1e6e48d85a4/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=6e84df3c5ab6cc4542e2bb032888fb78:f70a093df9f2afa85b2ae89fefdbe6cb
 ----------------------------------------
 CHANNEL=NFL GAMEPASS - AQ
 URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9zbuwaf704/out/v1/95215fbfc2814d158ca3c372e074916a/cenc.mpd
@@ -381,4 +219,10 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gi9pvfalzb/ou
 HTTP_STATUS=200
 DRM_SCHEME=clearkey
 DRM_KEY=7d1ba9b75a6aadca4aafc599d686fefe:3116ebf4a9a89f0724f3de8649a829d3
+----------------------------------------
+CHANNEL=NFL GAMEPASS - AQ
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/g0qjga9edn/out/v1/aea06bfc646045b08e1c15124d19d345/cenc.mpd
+HTTP_STATUS=200
+DRM_SCHEME=clearkey
+DRM_KEY=3b3580b4daf25bbf11f4c3cd011fe360:67e43f5b08cea0ebd3643b582bab430e
 ----------------------------------------
